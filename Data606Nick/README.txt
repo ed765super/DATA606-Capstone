@@ -1,4 +1,4 @@
-Authors: Geslanbe Belus	& Nicholas Ogbonna
+Authors: Nicholas Ogbonna
 
 Order to run:
 1) ArrestInstance.sql
